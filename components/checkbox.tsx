@@ -63,6 +63,6 @@ const Check = styled.img`
 `
 
 const Label = styled.label`
-  color: #777
+  color: #777;
   font-size: 0.9rem;
 `
